@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a software developer who's currently doing web development. I love JavaScript.
+I'm a software developer who's currently doing web development. I love JavaScript and react js.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [zmepetu@gmail.com](mailto:zmepetu@gmail.com)
