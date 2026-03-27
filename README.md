@@ -36,15 +36,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Limpaso-Dev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limpaso-Dev&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=limpaso-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limpaso-dev&layout=compact&theme=tokyonight" />
 </p>
 ---
 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Limpaso-Dev&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Limpaso-dev&theme=tokyonight" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Limpaso-Dev&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Limpaso-dev&color=blue" />
 </p>
 
 ---
