@@ -1,82 +1,99 @@
 # 👋 Hi, I'm Limpaso
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+Developer;React+Enthusiast;Always+Learning+🚀&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Web+Developer;React+%7C+Node.js+Enthusiast;Building+Scalable+Solutions+🚀&center=true&width=600&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
-💻 Passionate Software Engineer specializing in **System development**  
-⚡ I build modern, responsive, and scalable applications  
 
-- 🌍 Nairobi, Kenya  
-- ✉️ zmepetu@gmail.com  
-- 🧠 Currently mastering **React, Express, Node.js & Next.js **  
-- 🤝 Open to collaboration    
+💻 Software Engineer focused on building **scalable, high-performance web applications**
+⚡ Passionate about **clean code, system design, and real-world solutions**
+
+* 🌍 Nairobi, Kenya
+* ✉️ [zmepetu@gmail.com](mailto:zmepetu@gmail.com)
+* 🧠 Currently deepening expertise in **React, Node.js, Express & Next.js**
+* 🎯 Goal: Building impactful systems across Africa
+* 🤝 Open to collaborations & opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
-### ⚙️ Frameworks & Tools  
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limpaso-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limpaso-dev&layout=compact&theme=tokyonight" />
-</p>
----
 
-## 🔥 Streak Stats
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,nextjs,tailwind,git,vscode" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Limpaso-dev&theme=tokyonight" />
 </p>
 
 ---
 
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=limpaso-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limpaso-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=limpaso-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* ⚛️ Advanced React & Next.js
+* 🏗️ Backend architecture & APIs
+* ☁️ Deployment & cloud (Vercel, Render)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔗 **Genesis-Geochemical Lab**  
-  A modern informational website for a geochemical laboratory  
+### 🔬 Genesis Geochemical Lab
 
-- 🌱 **GreenWatch Africa**  
-  Environmental monitoring system using technology  
+A professional informational website for a geochemical laboratory.
 
-- 🛒 **Elevape Web App**  
-  An E-commerce platform with admin and user features  
+* 📩 Contact system (EmailJS integration)
+* 📱 Fully responsive design
+* ⚡ Built with React & Tailwind CSS
+
+---
+
+### 🌱 GreenWatch Africa
+
+A climate-focused platform leveraging technology for environmental monitoring and awareness.
+
+---
+
+### 🛒 Elevape Web App
+
+A scalable e-commerce system with authentication, admin dashboard, and product management.
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/limpaso-dev/limpaso-dev/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:zmepetu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/limpaso-mepetu-a29312319/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -84,15 +101,18 @@
 
 ## 👀 Profile Views
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Limpaso-dev&color=blue" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=limpaso-dev&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-I combine **technology + creativity** — coding by day, music by vibe 🎧
+
+I blend **technology + creativity** — building systems by day, vibing to music by night 🎧
 
 ---
 
-⭐️ *Check out my repositories and let’s build something amazing!*
+<p align="center">
+  ⭐️ *Let’s build something impactful together*
+</p>
