@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Limpaso.
-A Software Engineer
+# 👋 Hi, I'm Limpaso
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+Developer;React+Enthusiast;Always+Learning+🚀&center=true&width=500&height=50">
@@ -8,14 +7,13 @@ A Software Engineer
 ---
 
 ## 🚀 About Me
-💻 Passionate Software Engineer specializing in **web development**  
+💻 Passionate Software Engineer specializing in **System development**  
 ⚡ I build modern, responsive, and scalable applications  
 
 - 🌍 Nairobi, Kenya  
 - ✉️ zmepetu@gmail.com  
-- 🧠 Currently mastering **React & frontend architecture**  
-- 🤝 Open to collaboration  
-- 🎧 Music lover  
+- 🧠 Currently mastering **React, Express, Node.js & Next.js **  
+- 🤝 Open to collaboration    
 
 ---
 
@@ -38,8 +36,8 @@ A Software Engineer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Limpaso-Dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limpaso-Dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -47,21 +45,28 @@ A Software Engineer
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Limpaso-Dev&theme=tokyonight" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔗 **WorkLink Africa**  
-  Platform connecting Africa’s informal workforce  
+- 🔗 **Genesis-Geochemical Lab**  
+  A modern informational website for a geochemical laboratory  
 
 - 🌱 **GreenWatch Africa**  
   Environmental monitoring system using technology  
 
-- 🛒 **E-commerce Web App**  
-  Full-stack application with admin & user features  
+- 🛒 **Elevape Web App**  
+  An E-commerce platform with admin and user features  
 
 ---
 
@@ -71,7 +76,7 @@ A Software Engineer
   <a href="mailto:zmepetu@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/limpaso-mepetu-a29312319/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -81,7 +86,7 @@ A Software Engineer
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Limpaso-Dev&color=blue" />
 </p>
 
 ---
