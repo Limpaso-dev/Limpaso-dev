@@ -1,63 +1,94 @@
-# 👋 Hi, I'm a Software Engineer
+# 👋 Hi, I'm Limpaso.
+A Software Engineer
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+Developer;React+Enthusiast;Always+Learning+🚀&center=true&width=500&height=50">
+</p>
+
+---
 
 ## 🚀 About Me
-I am a passionate **Software Engineer** specializing in **web development**. I enjoy building modern, scalable, and user-friendly applications using **JavaScript** and **React.js**.
+💻 Passionate Software Engineer specializing in **web development**  
+⚡ I build modern, responsive, and scalable applications  
 
-- 🌍 Based in Nairobi, Kenya  
-- ✉️ Email: [zmepetu@gmail.com](mailto:zmepetu@gmail.com)  
-- 🧠 Currently improving my skills in **React** and modern frontend technologies  
-- 🤝 Open to collaborating on exciting and impactful projects  
-- 💬 I enjoy music and creative expression  
+- 🌍 Nairobi, Kenya  
+- ✉️ zmepetu@gmail.com  
+- 🧠 Currently mastering **React & frontend architecture**  
+- 🤝 Open to collaboration  
+- 🎧 Music lover  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- JavaScript  
-- HTML5  
-- CSS3  
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-### ⚙️ Frameworks & Libraries
-- React.js  
-- Tailwind CSS  
-- Framer Motion  
-
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Node.js  
+### ⚙️ Frameworks & Tools  
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🔥 Projects
-
-Here are some of the projects I’ve worked on:
-
-- 🚀 **WorkLink Africa** – A platform for managing and connecting Africa’s informal workforce  
-- 🌱 **GreenWatch Africa** – A tech-driven environmental monitoring solution  
-- 🛒 **E-commerce Web App** – Full-stack product management and customer interface  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🔥 Streak Stats
 
-- 📧 Email: [zmepetu@gmail.com](mailto:zmepetu@gmail.com)  
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔗 **WorkLink Africa**  
+  Platform connecting Africa’s informal workforce  
+
+- 🌱 **GreenWatch Africa**  
+  Environmental monitoring system using technology  
+
+- 🛒 **E-commerce Web App**  
+  Full-stack application with admin & user features  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:zmepetu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I combine **technology and creativity** — whether it's coding or enjoying music 🎧
+I combine **technology + creativity** — coding by day, music by vibe 🎧
 
 ---
 
-⭐️ *Feel free to check out my repositories and collaborate!*
+⭐️ *Check out my repositories and let’s build something amazing!*
